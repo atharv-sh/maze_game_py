@@ -1,5 +1,3 @@
-Here's a concise 10-line README for the maze game:
-
 ---
 
 # Maze Game
